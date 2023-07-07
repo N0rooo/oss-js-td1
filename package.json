@@ -1,0 +1,21 @@
+{
+  "name": "oss-js-n0rooo",
+  "version": "1.0.0",
+  "description": "A beautiful libraryghvubijnu`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N0rooo/oss-js-td1.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/N0rooo/oss-js-td1/issues"
+  },
+  "homepage": "https://github.com/N0rooo/oss-js-td1#readme"
+}
+
+
