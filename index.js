@@ -1,3 +1,6 @@
-export default function getRandomNumber() {
-    return Math.flooe(Math.random() * 100)
+
+function getRandomNumber() {
+    return Math.floor(Math.random() * 100)
 }
+
+module.exports = getRandomNumber;
